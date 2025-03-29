@@ -1,4 +1,4 @@
-# Financial Modelling Analysis: Blockchain & Cryptocurrency Applications
+# Mathematical Modeling in Blockchain and Cryptocurrency
 
 ## Overview
 This repository contains an exploration of **random variables**, **probability distributions**, and various mathematical concepts applied to blockchain technology and cryptocurrency investments. The analysis is aimed at understanding volatility, growth patterns, transaction behavior, and decision-making processes using advanced financial modeling techniques.
